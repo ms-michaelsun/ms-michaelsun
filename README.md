@@ -21,7 +21,7 @@ I'm passionate about data and technology, and I'm now channeling my skills towar
 ## 📫 Get in Touch
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/michael-sun-hu/)
-- Email: [ms.michaelsun@gmail.com](mailto:ms.michaelsun@gmail.com)
+- Email: [ms.michaelsun@gmail.com](mailto:ms.michaelsun@proton.me)
 
 ## 🏆 Certifications
 
